@@ -1,0 +1,12 @@
+C:\Users\ДжабашевН.CORP\source\repos\DBUpLesson\DBUpLesson\bin\Debug\DBUpLesson.exe.config
+C:\Users\ДжабашевН.CORP\source\repos\DBUpLesson\DBUpLesson\bin\Debug\DBUpLesson.exe
+C:\Users\ДжабашевН.CORP\source\repos\DBUpLesson\DBUpLesson\bin\Debug\DBUpLesson.pdb
+C:\Users\ДжабашевН.CORP\source\repos\DBUpLesson\DBUpLesson\bin\Debug\Dapper.dll
+C:\Users\ДжабашевН.CORP\source\repos\DBUpLesson\DBUpLesson\bin\Debug\dbup-core.dll
+C:\Users\ДжабашевН.CORP\source\repos\DBUpLesson\DBUpLesson\bin\Debug\dbup-sqlserver.dll
+C:\Users\ДжабашевН.CORP\source\repos\DBUpLesson\DBUpLesson\bin\Debug\Dapper.xml
+C:\Users\ДжабашевН.CORP\source\repos\DBUpLesson\DBUpLesson\obj\Debug\DBUpLesson.csprojAssemblyReference.cache
+C:\Users\ДжабашевН.CORP\source\repos\DBUpLesson\DBUpLesson\obj\Debug\DBUpLesson.csproj.CoreCompileInputs.cache
+C:\Users\ДжабашевН.CORP\source\repos\DBUpLesson\DBUpLesson\obj\Debug\DBUpLesson.csproj.CopyComplete
+C:\Users\ДжабашевН.CORP\source\repos\DBUpLesson\DBUpLesson\obj\Debug\DBUpLesson.exe
+C:\Users\ДжабашевН.CORP\source\repos\DBUpLesson\DBUpLesson\obj\Debug\DBUpLesson.pdb
